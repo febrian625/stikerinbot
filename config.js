@@ -24,14 +24,14 @@ global.APIKeys = { // APIKey nya disini
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'pais',
-  'https://api.xteam.xyz': 'apikeymu',
+  'https://api.xteam.xyz': 'kurrxd09',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
 }
 
 // Sticker WM
-global.packname = '❤️'
-global.author = 'ariffb'
+global.packname = 'FebroBots'
+global.author = 'Febrian'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
